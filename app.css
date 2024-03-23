@@ -1,0 +1,11 @@
+#card-box {
+    margin-top: 100px;
+    margin-bottom: 400px;
+  }
+  
+#card-box > img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
